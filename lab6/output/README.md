@@ -31,7 +31,6 @@ Order Number: 45
    Tax:                            $0.75
    Total:                          $9.13
 
-
    Cash                           $20.00
    Change                         $10.87
 Register:1          Tran Seq No:   57845

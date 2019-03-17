@@ -90,7 +90,7 @@ public class Printer {
                 getDollarString(tax) + "\n";
         s += paddingSpaces(3) + "Total:" + paddingSpaces(maxWidth - 16) +
                 getDollarString(total) + "\n";
-        s += "\n\n";
+        s += "\n";
         s += paddingSpaces(3) + "Cash" + paddingSpaces(maxWidth - 14) +
                 getDollarString(cash) + "\n";
         s += paddingSpaces(3) + "Change" + paddingSpaces(maxWidth - 16) +
