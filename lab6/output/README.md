@@ -15,7 +15,7 @@ RECEIPT:
 
 
 
-         03/16/2019 08:21:42 下午
+         03/16/2019 08:21:42 PM
 
                FIVE GUYS
 Order Number: 45
@@ -44,7 +44,7 @@ Cashier:Sakda* S.
 PACKAGING SLIP:
 ```
 Order Number: 45
-         03/16/2019 08:21:42 下午
+         03/16/2019 08:21:42 PM
 
                FIVE GUYS
 1  LBB                            
