@@ -5,6 +5,7 @@ Pattern Used:
 
 Here is output:
 RECEIPT:
+```
                FIVE GUYS
            BURGERS AND FRIES
             STORE # CA-1294
@@ -39,8 +40,10 @@ Cashier:Sakda* S.
     Don't throw away your receipt!!!
 
    Help Five Guys and you could win!
+```
 
 PACKAGING SLIP:
+```
 Order Number: 45
          03/16/2019 08:21:42 下午
 
@@ -55,3 +58,4 @@ Order Number: 45
 
 Register:1          Tran Seq No:   57845
 Cashier:Sakda* S.
+```
