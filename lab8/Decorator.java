@@ -1,14 +1,12 @@
 public class Decorator implements IDisplayComponent, IKeyEventHandler {
 
     protected CreditCardField target;
-    protected IKeyEventHandler nextHandler;
 
     public Decorator(CreditCardField target) {
         this.target = target;
     }
 
     public void setNext(IKeyEventHandler next) {
-        //this.nextHandler = next;
         target.setNext(next);
     }
 
